@@ -5,7 +5,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
             })
 -- // thank (ghana#0001) for this leak
 
-local Aiming = loadstring(game:HttpGet("https://github.com/felonskidder69/robloxfelon/blob/main/hood%20customs"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/cotton12moneypooppee12/cottonv1.2345678910/main/asdad"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
