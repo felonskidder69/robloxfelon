@@ -3,7 +3,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
                 Text = "ghana did this";
                 Duration = 3.5;
             })
--- // thank shquals (CHRISTIAN#1770) for this leak
+-- // thank (ghana#0001) for this leak
 
 local Aiming = loadstring(game:HttpGet("https://github.com/felonskidder69/robloxfelon/blob/main/hood%20customs"))()
 Aiming.TeamCheck(false)
