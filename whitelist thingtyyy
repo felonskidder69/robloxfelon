@@ -110,7 +110,7 @@ for i, v in pairs(plrGui:GetChildren()) do
                         Background.Visible = false
                         print("There")
                         if a == 9825515356 then -- Place ID / Game ID
-                            loadstring(game:HttpGet("https://github.com/felonskidder69/robloxfelon/blob/main/HOOD%20CUSTOMS%20>YEH"))() --Loadstring
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/felonskidder69/robloxfelon/main/HOOD%20CUSTOMS%20>YEH"))() --Loadstring
                             print("Whitelisted PSX")
 
                         elseif a == 6234583030 then -- Place ID / Game ID
