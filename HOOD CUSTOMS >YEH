@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
                 Title = "Credits";
-                Text = "ghana did this";
+                Text = "ghana's silent aim loaded!";
                 Duration = 3.5;
             })
 -- // thank (ghana#0001) for this leak
