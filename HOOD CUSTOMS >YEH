@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-                Title = "Credits";
+                Title = "80 FOV dm ghana for changes";
                 Text = "ghana's silent aim loaded!";
                 Duration = 3.5;
             })
